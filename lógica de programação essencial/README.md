@@ -220,7 +220,7 @@ senao{
 
 ## Portugol
 
-O [Portugol]([Portugol Studio](http://lite.acad.univali.br/portugol/)) é uma pseudo-**linguagem** algorítmica muito utilizada na descrição de algoritmos, destaca-se pelo uso de comandos em português, o que facilita o aprendizado da lógica de programação, habituando o iniciante com o formalismo de programação.
+O [Portugol](Portugol Studio](http://lite.acad.univali.br/portugol/) é uma pseudo-**linguagem** algorítmica muito utilizada na descrição de algoritmos, destaca-se pelo uso de comandos em português, o que facilita o aprendizado da lógica de programação, habituando o iniciante com o formalismo de programação.
 
 
 

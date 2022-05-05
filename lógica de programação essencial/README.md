@@ -102,7 +102,7 @@ nome = "José da Silva"
 
 media = (nota1+nota2)/2
 
-## Operadores relacionais
+## Expressões relacionais
 
 São expressões compostas por outras expressões ou variáveis com operadores relacionais.
 
@@ -220,7 +220,7 @@ senao{
 
 ## Portugol
 
-O [**Portugol**]([Portugol Studio](http://lite.acad.univali.br/portugol/)) é uma pseudo-**linguagem** algorítmica muito utilizada na descrição de algoritmos, destaca-se pelo uso de comandos em português, o que facilita o aprendizado da lógica de programação, habituando o iniciante com o formalismo de programação.
+O [Portugol]([Portugol Studio](http://lite.acad.univali.br/portugol/)) é uma pseudo-**linguagem** algorítmica muito utilizada na descrição de algoritmos, destaca-se pelo uso de comandos em português, o que facilita o aprendizado da lógica de programação, habituando o iniciante com o formalismo de programação.
 
 
 
@@ -291,5 +291,3 @@ frutas[4] = "Banana"
 //Declarando matriz com 2 vetores com 3 posições
 cadeia cesta[][] = {{"Maça", "100"}, {"Pera", "200"}, {"Melão", "300"}}
 ```
-
-# 
